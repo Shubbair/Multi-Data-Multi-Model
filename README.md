@@ -6,7 +6,7 @@ combining multi data presentation and using multi-model ensembel(average, meta-l
 
 ## Data pipeline generation
 
-from raw images dataset of Alphabet Sign lanaguge, extract edges and skeleton key-points.
+from raw images dataset of Alphabet Sign lanaguge *(_rgb.zip)*, extract edges and skeleton key-points.
 
 <img src="assets/data_pipeline.png" width="25%"/>
 
