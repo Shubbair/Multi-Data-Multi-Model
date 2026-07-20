@@ -8,7 +8,7 @@ combining multi data presentation and using multi-model ensembel(average, meta-l
 
 from raw images dataset of Alphabet Sign lanaguge, extract edges and skeleton key-points.
 
-<img src="assets/data_pipeline.png" width="50%"/>
+<img src="assets/data_pipeline.png" width="20%"/>
 
 code file : 
 `edge_data.py`
@@ -16,7 +16,7 @@ code file :
 
 ## Model Architecture
 
-<img src="assets/model_architecture.png" width="50%"/>
+<img src="assets/model_architecture.png" width="20%"/>
 
 Modeling : `multi-view-modeling.ipynb`
 
