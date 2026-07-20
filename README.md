@@ -10,7 +10,7 @@ from raw images dataset of Alphabet Sign lanaguge *(_rgb.zip)*, extract edges an
 
 <img src="assets/data_pipeline.png" width="25%"/>
 
-unzip dataset file then , 
+unzip dataset file then , generate data
 
 code file : 
 `edge_data.py`
